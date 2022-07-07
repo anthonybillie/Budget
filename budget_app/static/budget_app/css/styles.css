@@ -1,5 +1,7 @@
 body {
   background-image: url('/static/budget_app/images/coffee.jpeg');
-  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
 
 }
