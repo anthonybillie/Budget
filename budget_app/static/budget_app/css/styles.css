@@ -1,7 +1,7 @@
-body {
-  background-image: url('/static/budget_app/images/coffee.jpeg');
+#bg {
+  /* background-image: url('/static/budget_app/images/coffee.jpeg'); */
   background-size: cover;
   background-repeat: no-repeat;
+  opacity: .2;
   
-
 }
